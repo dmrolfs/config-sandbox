@@ -1,0 +1,1 @@
+# base-sbt-mult-project
